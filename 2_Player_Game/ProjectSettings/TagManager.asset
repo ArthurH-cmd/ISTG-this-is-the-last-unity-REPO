@@ -8,6 +8,8 @@ TagManager:
   - Player 2
   - Fire
   - Water
+  - Coins
+  - Spawn
   layers:
   - Default
   - TransparentFX
@@ -25,7 +27,7 @@ TagManager:
   - WaterTraps
   - FireTraps
   - Spawner
-  - 
+  - Coins
   - 
   - 
   - 

@@ -34,6 +34,9 @@ public class PlayerControler : MonoBehaviour
     private InputAction moveAction = null;
     private InputAction jumpAction = null;
 
+    private OverLord overLord;
+
+
     private void Awake()
     {
         rigBody = GetComponent<Rigidbody2D>();
@@ -76,6 +79,10 @@ public class PlayerControler : MonoBehaviour
         }
     }
 
+    private void Start()
+    {
+        overLord = FindAnyObjectByType<OverLord>();
+    }
 
     void Update()
     {
@@ -118,6 +125,21 @@ public class PlayerControler : MonoBehaviour
             this.transform.position = SpawnPoint.transform.position;
         }
 
+        else if (collision.tag == "Coins")
+        {
+            overLord.UpdateScore(1);
+            Destroy(collision.gameObject);
+        }
+
+        else if (collision.tag == "Spawn")
+        {
+
+            SpawnPoint.transform.position = collision.gameObject.transform.position;
+            Debug.Log("spawn updated");
+
+
+        }
+
         if (!isPlayer2) // if the player is "Player 1"
         {
             if (collision.tag == "Fire")
@@ -133,6 +155,8 @@ public class PlayerControler : MonoBehaviour
                 this.transform.position = SpawnPoint.transform.position; // dies
             }
         }
+
+       
     }
 
 
@@ -141,9 +165,5 @@ public class PlayerControler : MonoBehaviour
     {
         
     }
-    void Start()
-    {
-
-    }
-
+   
 }
