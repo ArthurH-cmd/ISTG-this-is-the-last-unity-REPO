@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\2_Player_Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76AC6C70-F9C2-8C98-6860-77A5D662E519}|Assembly-CSharp.csproj|c:\\users\\arthu\\desktop\\semester 2\\projects\\istg-this-is-the-last-unity-repo\\2_player_game\\assets\\scripts\\overlord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76AC6C70-F9C2-8C98-6860-77A5D662E519}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\overlord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{76AC6C70-F9C2-8C98-6860-77A5D662E519}|Assembly-CSharp.csproj|C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\2_Player_Game\\assets\\scripts\\playercontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76AC6C70-F9C2-8C98-6860-77A5D662E519}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76AC6C70-F9C2-8C98-6860-77A5D662E519}|Assembly-CSharp.csproj|C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\2_Player_Game\\assets\\scripts\\groundcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76AC6C70-F9C2-8C98-6860-77A5D662E519}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76AC6C70-F9C2-8C98-6860-77A5D662E519}|Assembly-CSharp.csproj|C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\2_Player_Game\\assets\\scripts\\doorlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76AC6C70-F9C2-8C98-6860-77A5D662E519}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doorlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76AC6C70-F9C2-8C98-6860-77A5D662E519}|Assembly-CSharp.csproj|C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\2_Player_Game\\assets\\scripts\\spawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76AC6C70-F9C2-8C98-6860-77A5D662E519}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76AC6C70-F9C2-8C98-6860-77A5D662E519}|Assembly-CSharp.csproj|C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\2_Player_Game\\assets\\scripts\\buttonlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76AC6C70-F9C2-8C98-6860-77A5D662E519}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AC6C70-F9C2-8C98-6860-77A5D662E519}|Assembly-CSharp.csproj|C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\2_Player_Game\\assets\\scripts\\groundcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76AC6C70-F9C2-8C98-6860-77A5D662E519}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AC6C70-F9C2-8C98-6860-77A5D662E519}|Assembly-CSharp.csproj|c:\\users\\arthu\\desktop\\semester 2\\projects\\istg-this-is-the-last-unity-repo\\2_player_game\\assets\\scripts\\overlord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76AC6C70-F9C2-8C98-6860-77A5D662E519}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\overlord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76AC6C70-F9C2-8C98-6860-77A5D662E519}|Assembly-CSharp.csproj|C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\2_Player_Game\\assets\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76AC6C70-F9C2-8C98-6860-77A5D662E519}|Assembly-CSharp.csproj|solutionrelative:assets\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76AC6C70-F9C2-8C98-6860-77A5D662E519}|Assembly-CSharp.csproj|C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\2_Player_Game\\assets\\scripts\\buttonlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76AC6C70-F9C2-8C98-6860-77A5D662E519}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76AC6C70-F9C2-8C98-6860-77A5D662E519}|Assembly-CSharp.csproj|C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\2_Player_Game\\assets\\scripts\\spawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76AC6C70-F9C2-8C98-6860-77A5D662E519}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,19 +47,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OverLord.cs",
-              "DocumentMoniker": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\2_Player_Game\\Assets\\Scripts\\OverLord.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\OverLord.cs",
-              "ToolTip": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\2_Player_Game\\Assets\\Scripts\\OverLord.cs",
-              "RelativeToolTip": "Assets\\Scripts\\OverLord.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T03:21:51.996Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -71,56 +58,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "OverLord.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\2_Player_Game\\Assets\\Scripts\\OverLord.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OverLord.cs",
+              "ToolTip": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\2_Player_Game\\Assets\\Scripts\\OverLord.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OverLord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T03:21:51.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "PlayerControler.cs",
               "DocumentMoniker": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\2_Player_Game\\Assets\\Scripts\\PlayerControler.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControler.cs",
               "ToolTip": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\2_Player_Game\\Assets\\Scripts\\PlayerControler.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerControler.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAAAIkAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-25T16:09:19.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GroundCheck.cs",
               "DocumentMoniker": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\2_Player_Game\\Assets\\Scripts\\GroundCheck.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GroundCheck.cs",
               "ToolTip": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\2_Player_Game\\Assets\\Scripts\\GroundCheck.cs",
               "RelativeToolTip": "Assets\\Scripts\\GroundCheck.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T16:41:45.748Z"
+              "WhenOpened": "2025-10-25T16:41:45.748Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "DoorLogic.cs",
               "DocumentMoniker": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\2_Player_Game\\Assets\\Scripts\\DoorLogic.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DoorLogic.cs",
               "ToolTip": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\2_Player_Game\\Assets\\Scripts\\DoorLogic.cs",
               "RelativeToolTip": "Assets\\Scripts\\DoorLogic.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T01:38:50.02Z"
+              "WhenOpened": "2025-10-29T01:38:50.02Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "ButtonLogic.cs",
               "DocumentMoniker": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\2_Player_Game\\Assets\\Scripts\\ButtonLogic.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonLogic.cs",
               "ToolTip": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\2_Player_Game\\Assets\\Scripts\\ButtonLogic.cs",
               "RelativeToolTip": "Assets\\Scripts\\ButtonLogic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T01:37:47.122Z"
+              "WhenOpened": "2025-10-29T01:37:47.122Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "SpawnerScript.cs",
               "DocumentMoniker": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\2_Player_Game\\Assets\\Scripts\\SpawnerScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnerScript.cs",
@@ -128,7 +131,8 @@
               "RelativeToolTip": "Assets\\Scripts\\SpawnerScript.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T22:14:39.957Z"
+              "WhenOpened": "2025-10-25T22:14:39.957Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -140,7 +144,8 @@
               "RelativeToolTip": "Assets\\PlayerInput.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T16:17:05.565Z"
+              "WhenOpened": "2025-10-25T16:17:05.565Z",
+              "EditorCaption": ""
             }
           ]
         }
