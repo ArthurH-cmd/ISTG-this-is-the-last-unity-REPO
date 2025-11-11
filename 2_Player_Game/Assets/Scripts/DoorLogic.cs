@@ -2,44 +2,49 @@ using UnityEngine;
 
 public class MovingDoorLogic : MonoBehaviour
 {
-
-
     public bool isOpen = false;
-    public bool IsClosing = false;
 
-  
-    private Vector2 Position;
+    private OverLord overLord; // Reference to the OverLord instance
+    [SerializeField] private GameObject winScreen; // Reference to the win screen UI
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    private void Start()
     {
-        Position = transform.position;
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-      
-
-    }
-
-
-    public void OpenDoor() 
-    {
-        if (isOpen) 
-        {
-            Debug.Log("opening");
-            Position.y -= 4;
         
-        }
-
-        else if (IsClosing) 
-        {
-            Debug.Log("Closeing");
-
-        }
-    
-    
-    
+        overLord = FindAnyObjectByType<OverLord>();// Find the OverLord instance in the scene
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (overLord != null && overLord.GetScore() == 1) // Check if OverLord has all 10 coins
+        {
+            isOpen = true;
+            OpenDoor();
+        }
+        else
+        {
+            Debug.Log("Door remains closed. Collect all coins to open.");
+        }
+    }
+
+    public void OpenDoor()
+    {
+        if (isOpen)
+        {
+            Debug.Log("Opening door...");
+            ShowWinScreen(); 
+            Destroy(this.gameObject);
+            
+        }
+    }
+
+    private void ShowWinScreen()
+    {
+        if (winScreen != null)
+        {
+            winScreen.SetActive(true); // Activate the win screen UI
+
+        }
+    }
+
+   
 }

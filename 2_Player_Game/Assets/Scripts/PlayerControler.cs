@@ -5,6 +5,8 @@ using UnityEngine.InputSystem.iOS;
 
 public class PlayerControler : MonoBehaviour
 {
+    private Transform currentSpawnPoint;
+
 
     [SerializeField]
     private GameObject SpawnPoint = null;
@@ -82,6 +84,7 @@ public class PlayerControler : MonoBehaviour
     private void Start()
     {
         overLord = FindAnyObjectByType<OverLord>();
+        currentSpawnPoint = transform;
     }
 
     void Update()
@@ -120,31 +123,27 @@ public class PlayerControler : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.tag == "Spikes")
+        if (collision.tag == "Spikes") // spikes
         {
-            this.transform.position = SpawnPoint.transform.position;
+            Respawn();
         }
 
-        else if (collision.tag == "Coins")
+        else if (collision.tag == "Coins") // coins
         {
             overLord.UpdateScore(1);
             Destroy(collision.gameObject);
         }
 
-        else if (collision.tag == "Spawn")
+        else if (collision.CompareTag("Spawn"))
         {
-
-            SpawnPoint.transform.position = collision.gameObject.transform.position;
-            Debug.Log("spawn updated");
-
-
+            UpdateSpawnPoint(collision.transform);
         }
 
-        if (!isPlayer2) // if the player is "Player 1"
+        if (!isPlayer2) 
         {
             if (collision.tag == "Fire")
             {
-                this.transform.position = SpawnPoint.transform.position; // dies
+                Respawn();
             }
         }
 
@@ -152,13 +151,24 @@ public class PlayerControler : MonoBehaviour
         {
             if (collision.tag == "Water")
             {
-                this.transform.position = SpawnPoint.transform.position; // dies
+                Respawn();
             }
         }
 
        
     }
 
+    private void Respawn()
+    {
+        transform.position = currentSpawnPoint.position; // Respawn at the current spawn point
+        Debug.Log("Player respawned at the current spawn point.");
+    }
+
+    private void UpdateSpawnPoint(Transform newSpawnPoint)
+    {
+        currentSpawnPoint = newSpawnPoint; // Update the current spawn point
+        Debug.Log("Spawn point updated to: " + newSpawnPoint.position);
+    }
 
 
     private void OnCollisionEnter(Collision collision)

@@ -20,15 +20,18 @@ public class OverLord : MonoBehaviour
 
     private void UpdateCoinText()
     {
-        
-            coinText.text = $"Coins: {score} / 10";
-
-
-        if (score <= 10) 
+        if (score < 10)
         {
-
-            coinText.text = $"A door has Opened";
-        
+            coinText.text = $"Coins: {score} / 10";
         }
+        else if (score == 1)
+        {
+            coinText.text = $"A door has Opened";
+        }
+    }
+
+    public int GetScore()
+    {
+        return score; 
     }
 }
