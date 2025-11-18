@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\arthu\\Desktop\\Semester 2\\Unity Projects\\U-Nity\\Tumble_Men\\",
+  "WorkspaceRootPath": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Tumble_Men\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDB075BA-5026-D88C-D80D-B9A017A5BE41}|Assembly-CSharp.csproj|c:\\users\\arthu\\desktop\\semester 2\\unity projects\\u-nity\\tumble_men\\assets\\scripts\\playercontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDB075BA-5026-D88C-D80D-B9A017A5BE41}|Assembly-CSharp.csproj|c:\\users\\arthu\\desktop\\semester 2\\projects\\istg-this-is-the-last-unity-repo\\tumble_men\\assets\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB075BA-5026-D88C-D80D-B9A017A5BE41}|Assembly-CSharp.csproj|solutionrelative:assets\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB075BA-5026-D88C-D80D-B9A017A5BE41}|Assembly-CSharp.csproj|c:\\users\\arthu\\desktop\\semester 2\\projects\\istg-this-is-the-last-unity-repo\\tumble_men\\assets\\scripts\\playercontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDB075BA-5026-D88C-D80D-B9A017A5BE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDB075BA-5026-D88C-D80D-B9A017A5BE41}|Assembly-CSharp.csproj|C:\\Users\\arthu\\Desktop\\Semester 2\\Unity Projects\\U-Nity\\Tumble_Men\\assets\\scripts\\groundcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB075BA-5026-D88C-D80D-B9A017A5BE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDB075BA-5026-D88C-D80D-B9A017A5BE41}|Assembly-CSharp.csproj|C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Tumble_Men\\assets\\scripts\\movingfloor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB075BA-5026-D88C-D80D-B9A017A5BE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movingfloor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDB075BA-5026-D88C-D80D-B9A017A5BE41}|Assembly-CSharp.csproj|C:\\Users\\arthu\\Desktop\\Semester 2\\Unity Projects\\U-Nity\\Tumble_Men\\assets\\scripts\\movingfloor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB075BA-5026-D88C-D80D-B9A017A5BE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movingfloor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDB075BA-5026-D88C-D80D-B9A017A5BE41}|Assembly-CSharp.csproj|C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Tumble_Men\\assets\\scripts\\groundcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB075BA-5026-D88C-D80D-B9A017A5BE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,14 +39,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerControler.cs",
-              "DocumentMoniker": "C:\\Users\\arthu\\Desktop\\Semester 2\\Unity Projects\\U-Nity\\Tumble_Men\\Assets\\Scripts\\PlayerControler.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControler.cs",
-              "ToolTip": "C:\\Users\\arthu\\Desktop\\Semester 2\\Unity Projects\\U-Nity\\Tumble_Men\\Assets\\Scripts\\PlayerControler.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerControler.cs",
-              "ViewState": "AgIAAIgAAAAAAAAAAAAkwJ4AAAAhAAAAAAAAAA==",
+              "Title": "PlayerInput.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Tumble_Men\\Assets\\PlayerInput.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerInput.cs",
+              "ToolTip": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Tumble_Men\\Assets\\PlayerInput.cs",
+              "RelativeToolTip": "Assets\\PlayerInput.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T03:33:20.342Z",
+              "WhenOpened": "2025-11-15T18:41:39.906Z",
               "EditorCaption": ""
             },
             {
@@ -55,23 +59,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MovingFloor.cs",
-              "DocumentMoniker": "C:\\Users\\arthu\\Desktop\\Semester 2\\Unity Projects\\U-Nity\\Tumble_Men\\Assets\\Scripts\\MovingFloor.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MovingFloor.cs",
-              "ToolTip": "C:\\Users\\arthu\\Desktop\\Semester 2\\Unity Projects\\U-Nity\\Tumble_Men\\Assets\\Scripts\\MovingFloor.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MovingFloor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "PlayerControler.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Tumble_Men\\Assets\\Scripts\\PlayerControler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControler.cs",
+              "ToolTip": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Tumble_Men\\Assets\\Scripts\\PlayerControler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerControler.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T18:03:06.012Z"
+              "WhenOpened": "2025-11-07T03:33:20.342Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "MovingFloor.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Tumble_Men\\Assets\\Scripts\\MovingFloor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovingFloor.cs",
+              "ToolTip": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Tumble_Men\\Assets\\Scripts\\MovingFloor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovingFloor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T18:03:06.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "GroundCheck.cs",
-              "DocumentMoniker": "C:\\Users\\arthu\\Desktop\\Semester 2\\Unity Projects\\U-Nity\\Tumble_Men\\Assets\\Scripts\\GroundCheck.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Tumble_Men\\Assets\\Scripts\\GroundCheck.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GroundCheck.cs",
-              "ToolTip": "C:\\Users\\arthu\\Desktop\\Semester 2\\Unity Projects\\U-Nity\\Tumble_Men\\Assets\\Scripts\\GroundCheck.cs",
+              "ToolTip": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Tumble_Men\\Assets\\Scripts\\GroundCheck.cs",
               "RelativeToolTip": "Assets\\Scripts\\GroundCheck.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
