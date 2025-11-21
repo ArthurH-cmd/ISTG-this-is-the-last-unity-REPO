@@ -6,6 +6,7 @@ using UnityEngine.InputSystem;
 public class PlayerController : MonoBehaviour
 {
     [SerializeField] private float moveSpeed;
+    [SerializeField] private float BrakeStrength;
 
     public Transform orientation;
 
@@ -26,6 +27,11 @@ public class PlayerController : MonoBehaviour
     {
         MyInputs();
         SpeedControl();
+
+        if (Input.GetKey(KeyCode.Space)) 
+        {
+           EmengancyBreaks();
+        }
     }
 
     private void FixedUpdate()
@@ -58,5 +64,20 @@ public class PlayerController : MonoBehaviour
         
         }
 
+    }
+
+    private void EmengancyBreaks() 
+    {
+        Vector3 currentVelocity = new Vector3(rb.linearVelocity.x, 0f, rb.linearVelocity.z);
+        Vector3 brakingForce = -currentVelocity.normalized * BrakeStrength; 
+
+        rb.AddForce(brakingForce, ForceMode.Force);
+
+   
+        if (currentVelocity.magnitude < 0.1f)
+        {
+            rb.linearVelocity = new Vector3(0f, rb.linearVelocity.y, 0f);
+            rb.linearVelocity = new Vector3(0f, rb.linearVelocity.y, 0f);
+        }
     }
 }

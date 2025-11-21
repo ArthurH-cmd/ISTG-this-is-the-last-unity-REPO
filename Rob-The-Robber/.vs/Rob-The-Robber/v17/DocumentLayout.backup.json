@@ -7,20 +7,24 @@
       "RelativeMoniker": "D:0:0:{1E1A1DBC-BBD4-E469-AEE5-9F272D60B45F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\aiagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E1A1DBC-BBD4-E469-AEE5-9F272D60B45F}|Assembly-CSharp.csproj|C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Rob-The-Robber\\assets\\scripts\\cameraholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E1A1DBC-BBD4-E469-AEE5-9F272D60B45F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameraholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E1A1DBC-BBD4-E469-AEE5-9F272D60B45F}|Assembly-CSharp.csproj|C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Rob-The-Robber\\assets\\scripts\\playercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1A1DBC-BBD4-E469-AEE5-9F272D60B45F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E1A1DBC-BBD4-E469-AEE5-9F272D60B45F}|Assembly-CSharp.csproj|C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Rob-The-Robber\\assets\\scripts\\playercam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E1A1DBC-BBD4-E469-AEE5-9F272D60B45F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E1A1DBC-BBD4-E469-AEE5-9F272D60B45F}|Assembly-CSharp.csproj|C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Rob-The-Robber\\assets\\scripts\\playercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E1A1DBC-BBD4-E469-AEE5-9F272D60B45F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E1A1DBC-BBD4-E469-AEE5-9F272D60B45F}|Assembly-CSharp.csproj|C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Rob-The-Robber\\assets\\scripts\\cameraholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1A1DBC-BBD4-E469-AEE5-9F272D60B45F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameraholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E1A1DBC-BBD4-E469-AEE5-9F272D60B45F}|Assembly-CSharp.csproj|C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Rob-The-Robber\\assets\\inputsystem_actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E1A1DBC-BBD4-E469-AEE5-9F272D60B45F}|Assembly-CSharp.csproj|solutionrelative:assets\\inputsystem_actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1A1DBC-BBD4-E469-AEE5-9F272D60B45F}|Assembly-CSharp.csproj|C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Rob-The-Robber\\assets\\scripts\\waypointpatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1A1DBC-BBD4-E469-AEE5-9F272D60B45F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\waypointpatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,19 +43,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Aiagent.cs",
-              "DocumentMoniker": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Rob-The-Robber\\Assets\\Scripts\\Aiagent.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Aiagent.cs",
-              "ToolTip": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Rob-The-Robber\\Assets\\Scripts\\Aiagent.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Aiagent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T01:37:20.552Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -63,7 +54,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "WayPointPatrol.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Rob-The-Robber\\Assets\\Scripts\\WayPointPatrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WayPointPatrol.cs",
+              "ToolTip": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Rob-The-Robber\\Assets\\Scripts\\WayPointPatrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WayPointPatrol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T01:50:05.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aiagent.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Rob-The-Robber\\Assets\\Scripts\\Aiagent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Aiagent.cs",
+              "ToolTip": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Rob-The-Robber\\Assets\\Scripts\\Aiagent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Aiagent.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAHQAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T01:37:20.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CameraHolder.cs",
               "DocumentMoniker": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Rob-The-Robber\\Assets\\Scripts\\CameraHolder.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraHolder.cs",
@@ -87,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "PlayerControls.cs",
               "DocumentMoniker": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Rob-The-Robber\\Assets\\Scripts\\PlayerControls.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControls.cs",
               "ToolTip": "C:\\Users\\arthu\\Desktop\\Semester 2\\Projects\\ISTG-this-is-the-last-unity-REPO\\Rob-The-Robber\\Assets\\Scripts\\PlayerControls.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerControls.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAABBwBsAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T17:46:57.675Z"
             },
